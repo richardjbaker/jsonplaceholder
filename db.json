@@ -1,5 +1,7 @@
 {
-    "user_id": "123",
-    "nickname": "nick",
-    "email": "nick@a.com"
+    "user": {
+        "user_id": "123",
+        "nickname": "nick",
+        "email": "nick@a.com"
+    }
 }
